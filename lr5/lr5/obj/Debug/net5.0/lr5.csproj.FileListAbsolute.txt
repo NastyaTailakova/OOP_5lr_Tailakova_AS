@@ -1,0 +1,16 @@
+D:\oop\5lr\lr5\lr5\bin\Debug\net5.0\lr5.exe
+D:\oop\5lr\lr5\lr5\bin\Debug\net5.0\lr5.deps.json
+D:\oop\5lr\lr5\lr5\bin\Debug\net5.0\lr5.runtimeconfig.json
+D:\oop\5lr\lr5\lr5\bin\Debug\net5.0\lr5.runtimeconfig.dev.json
+D:\oop\5lr\lr5\lr5\bin\Debug\net5.0\lr5.dll
+D:\oop\5lr\lr5\lr5\bin\Debug\net5.0\ref\lr5.dll
+D:\oop\5lr\lr5\lr5\bin\Debug\net5.0\lr5.pdb
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.csproj.AssemblyReference.cache
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.AssemblyInfoInputs.cache
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.AssemblyInfo.cs
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.csproj.CoreCompileInputs.cache
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.dll
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\ref\lr5.dll
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.pdb
+D:\oop\5lr\lr5\lr5\obj\Debug\net5.0\lr5.genruntimeconfig.cache
